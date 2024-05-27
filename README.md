@@ -40,6 +40,8 @@ Expert opinions on the potential timelines for AGI and ASI vary widely. Some in 
 [Artificial Superintelligence](https://github.com/sourceduty/Artificial_Superintelligence)
 <br>
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
+<br>
+[xAI](https://github.com/sourceduty/xAI)
 
 ***
 🛈 This information is free and open-source; anyone can redistribute it and/or modify.
